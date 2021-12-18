@@ -45,22 +45,22 @@
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
     },
     {
+      "id": 4,
+      "title": "Tênis Grand Court Base",
+      "price": 299.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-adidas-grand-court-base-masculino/14/COL-7146-014/COL-7146-014_zoom1.jpg?ts=1584628163&ims=544x"
+    },
+    {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Tênis Adidas Lite Racer",
+      "price": 179.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-adidas-lite-racer-masculino/26/COL-0785-026/COL-0785-026_zoom1.jpg?ts=1634227000"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "Tênis Caminhada Ever Way",
+      "price": 159.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-caminhada-ever-way-masculino-leve-confortavel-com-detalhes-em-couro-legitimo/06/0CX-0034-006/0CX-0034-006_zoom1.jpg?ts=1619796527&"
     }
   ]
 }

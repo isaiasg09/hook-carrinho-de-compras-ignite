@@ -11,10 +11,11 @@ const App = (): JSX.Element => {
   return (
     <BrowserRouter>
       <CartProvider>
-        <GlobalStyles />
-        <Header />
-        <Routes />
         <ToastContainer autoClose={3000} />
+        <GlobalStyles />
+
+        <Header />
+        <Routes />  
       </CartProvider>
     </BrowserRouter>
   );
